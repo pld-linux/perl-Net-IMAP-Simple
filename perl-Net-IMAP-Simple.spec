@@ -8,13 +8,14 @@
 Summary:	Net::IMAP::Simple Perl module - simple IMAP account handling
 Summary(pl):	Modu³ Perla Net::IMAP::Simple - prosta obs³uga kont IMAP
 Name:		perl-Net-IMAP-Simple
-Version:	0.93
-Release:	3
+Version:	0.95
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	992e41946ff7cbd7f7545757bc140471
+Source0:	http://search.cpan.org/CPAN/authors/id/C/CW/CWEST/%{pdir}-%{pnam}-%{version}.tar.gz	
+# Source0-md5:	8ea3b099c5755237377dbcf13c0513c9
+URL:		http://search.cpan.org/dist/Net-IMAP-Simple/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
