@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define		pdir	Net
-%define		pnam	IMAP-Simple
+%define	pdir	Net
+%define	pnam	IMAP-Simple
 Summary:	Net::IMAP::Simple Perl module - simple IMAP account handling
 Summary(pl):	Modu³ Perla Net::IMAP::Simple - prosta obs³uga kont IMAP
 Name:		perl-Net-IMAP-Simple
