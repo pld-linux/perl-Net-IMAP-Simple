@@ -13,7 +13,7 @@ Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://search.cpan.org/CPAN/authors/id/C/CW/CWEST/%{pdir}-%{pnam}-%{version}.tar.gz	
+Source0:	http://www.cpan.org/modules/by-authors/id/C/CW/CWEST/%{pdir}-%{pnam}-%{version}.tar.gz	
 # Source0-md5:	8ea3b099c5755237377dbcf13c0513c9
 URL:		http://search.cpan.org/dist/Net-IMAP-Simple/
 BuildRequires:	perl-devel >= 1:5.8.0
