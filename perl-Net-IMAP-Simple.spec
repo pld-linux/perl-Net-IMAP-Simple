@@ -6,7 +6,7 @@
 %define		pdir	Net
 %define		pnam	IMAP-Simple
 Summary:	Net::IMAP::Simple Perl module - simple IMAP account handling
-Summary(pl):	Modu≥ Perla Net::IMAP::Simple - prosta obs≥uga kont IMAP
+Summary(pl.UTF-8):   Modu≈Ç Perla Net::IMAP::Simple - prosta obs≈Çuga kont IMAP
 Name:		perl-Net-IMAP-Simple
 Version:	0.95
 Release:	1
@@ -26,10 +26,10 @@ This module is a simple way to access IMAP accounts. The API is mostly
 equivalent to the Net::POP3 one, with some aditional methods for
 mailbox handling.
 
-%description -l pl
-Ten modu≥ pozwala na ≥atwy dostÍp do kont IMAP. API w wiÍkszo∂ci
-odpowiada temu z modu≥u Net::POP3, z paroma dodatkowymi metodami do
-obs≥ugi skrzynek.
+%description -l pl.UTF-8
+Ten modu≈Ç pozwala na ≈Çatwy dostƒôp do kont IMAP. API w wiƒôkszo≈õci
+odpowiada temu z modu≈Çu Net::POP3, z paroma dodatkowymi metodami do
+obs≈Çugi skrzynek.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
