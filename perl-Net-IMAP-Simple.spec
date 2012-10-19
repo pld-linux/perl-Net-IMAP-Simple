@@ -55,6 +55,7 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc Changes README TODO
+%dir %{perl_vendorlib}/Net/IMAP
 %{perl_vendorlib}/Net/IMAP/*.pm
 %{perl_vendorlib}/Net/IMAP/Simple
 %{_mandir}/man3/*
