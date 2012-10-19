@@ -10,7 +10,7 @@ Summary(pl.UTF-8):     Moduł Perla Net::IMAP::Simple - prosta obsługa kont IMA
 Name:		perl-Net-IMAP-Simple
 Version:	1.2034
 Release:	1
-License:	Same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Net/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	15dda3b14ea13172923ad7914fe64656
