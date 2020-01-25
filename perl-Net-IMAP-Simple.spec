@@ -4,7 +4,6 @@
 #
 %define		pdir	Net
 %define		pnam	IMAP-Simple
-%include	/usr/lib/rpm/macros.perl
 Summary:	Net::IMAP::Simple - Perl extension for simple IMAP account handling.
 Summary(pl.UTF-8):     Moduł Perla Net::IMAP::Simple - prosta obsługa kont IMAP
 Name:		perl-Net-IMAP-Simple
